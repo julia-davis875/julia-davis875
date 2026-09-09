@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Julia (@julia-davis875) 👋
 
-<!--
-**julia-davis875/julia-davis875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Tokyo. Most of my time goes into building niche web apps and trying to get them to profitability.
 
-Here are some ideas to get you started:
+### What I'm up to
+- 🛠️ Shipping lightweight tools for solo makers and small teams.
+- 📚 Digging into local-first sync architectures and sqlite-at-the-edge patterns.
+- ☕ Exploring Tokyo's coffee spots when away from terminal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I actually use
+- **Languages:** TypeScript, Python
+- **Web & APIs:** FastAPI, React, Next.js, Tailwind
+- **Data & Infra:** SQLite (with Litestream/Turso), Fly.io, Cloudflare
+
+### Contact
+- Twitter/X: [@juliacodes](https://twitter.com)
+- Website: [juliadavis.dev](https://juliadavis.dev)
+- Email: hello@juliadavis.dev
